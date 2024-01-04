@@ -8,7 +8,7 @@ POSTGRES_PASSWORD=password this is the password of the database
 postgres this is the name of the database to connect to
 
 Login in to postgres on the command line
-$ sudo -u postgres psqlm
+$ sudo -u postgres psql
 
 To activate a virtual environment for if it was not done already
 $ source venv/bin/activate
