@@ -8,4 +8,4 @@ POSTGRES_PASSWORD=password this is the password of the database
 postgres this is the name of the database to connect to
 
 Login in to postgres on the command line
-$ sudo -u postgres psql
+$ sudo -u postgres psqlm
