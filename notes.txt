@@ -1,0 +1,11 @@
+To connect to postgres db from Terminal in the Services pain do the following
+
+POSTGRES_PASSWORD=password psql -h localhost -p 5432 -U postgres -d postgres
+
+Where:
+POSTGRES_PASSWORD=password this is the password of the database
+5432 this is the port number
+postgres this is the name of the database to connect to
+
+Login in to postgres on the command line
+$ sudo -u postgres psql
