@@ -9,3 +9,6 @@ postgres this is the name of the database to connect to
 
 Login in to postgres on the command line
 $ sudo -u postgres psqlm
+
+To activate a virtual environment for if it was not done already
+$ source venv/bin/activate
